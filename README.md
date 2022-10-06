@@ -1,4 +1,4 @@
 # Blog
-Blog
-Welcome to the blog
+Blog<br>
+Welcome to the blog<br>
 Hope you enjoyed the blog
